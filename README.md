@@ -1,9 +1,9 @@
 # notatki
 notatki i pomysły
 
-* Symfony
-** mini sklep - lista towarów i koszyk do ktorego mozna umieszczac wybrane produkty
+1. Symfony 
+   * **mini sklep** - lista towarów i koszyk do ktorego mozna umieszczac wybrane produkty
 
-* JS
+1. JS
 
-* CodeIgnitor
+1. CodeIgnitor
